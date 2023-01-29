@@ -6,3 +6,10 @@ Exemplo de destaque no github
 ```
 Exemplos de comandos
 ```
+
+
+Exemplo de instalação
+```node app.js
+```
+
+
