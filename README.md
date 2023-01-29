@@ -9,7 +9,8 @@ Exemplos de comandos
 
 
 Exemplo de instalação
-```node app.js
+```
+node app.js
 ```
 
 
